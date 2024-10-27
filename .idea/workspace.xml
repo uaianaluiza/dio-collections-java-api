@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb5e40e9-7ff8-4d5e-90e1-58460014142c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/list/OperacoesBasicas/ListaTarefas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/OperacoesBasicas/Tarefa.java" afterDir="false" />
+    <list default="true" id="fb5e40e9-7ff8-4d5e-90e1-58460014142c" name="Changes" comment="Adicionar desafio lista de tarefas">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/Pesquisa/CatalogoLivros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/Pesquisa/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CatalogoLivros.executor": "Run",
     "Application.ListaTarefas.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,7 +58,28 @@
     "onboarding.tips.debug.path": "C:/Users/ana.tome/Documents/Dio desafios/dio-collctions-java-api/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ListaTarefas">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="list.OperacoesBasicas" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="list.Pesquisa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CatalogoLivros">
+    <configuration name="CatalogoLivros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Pesquisa.CatalogoLivros" />
+      <module name="dio-collctions-java-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.Pesquisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListaTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="list.OperacoesBasicas.ListaTarefas" />
       <module name="dio-collctions-java-api" />
@@ -79,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CatalogoLivros" />
         <item itemvalue="Application.ListaTarefas" />
         <item itemvalue="Application.Main" />
       </list>
@@ -93,6 +117,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729982567046</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adicionar desafio lista de tarefas">
+      <option name="closed" value="true" />
+      <created>1729988047695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729988047695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionar desafio lista de tarefas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionar desafio lista de tarefas" />
   </component>
 </project>
