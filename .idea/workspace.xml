@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb5e40e9-7ff8-4d5e-90e1-58460014142c" name="Changes" comment="Adicionar desafio OrdenacaoPessoas">
-      <change afterPath="$PROJECT_DIR$/src/set/OperacoesBasicas/ConjuntoConvidados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/OperacoesBasicas/Convidado.java" afterDir="false" />
+    <list default="true" id="fb5e40e9-7ff8-4d5e-90e1-58460014142c" name="Changes" comment="Adicionar desafio ConjuntoConvidados">
+      <change afterPath="$PROJECT_DIR$/src/set/Pesquisa/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Pesquisa/Contato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set/OperacoesBasicas/ConjuntoConvidados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set/OperacoesBasicas/ConjuntoConvidados.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgendaContatos.executor": "Run",
     "Application.CatalogoLivros.executor": "Run",
     "Application.ConjuntoConvidados.executor": "Run",
     "Application.ListaTarefas.executor": "Run",
@@ -68,7 +70,20 @@
       <recent name="list.Pesquisa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConjuntoConvidados">
+  <component name="RunManager" selected="Application.AgendaContatos">
+    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Pesquisa.AgendaContatos" />
+      <module name="dio-collctions-java-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.Pesquisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CatalogoLivros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="list.Pesquisa.CatalogoLivros" />
       <module name="dio-collctions-java-api" />
@@ -108,13 +123,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="dio-collctions-java-api" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OrdenacaoPessoas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="list.Ordenacao.OrdenacaoPessoas" />
       <module name="dio-collctions-java-api" />
@@ -130,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgendaContatos" />
         <item itemvalue="Application.ConjuntoConvidados" />
         <item itemvalue="Application.OrdenacaoPessoas" />
         <item itemvalue="Application.CatalogoLivros" />
         <item itemvalue="Application.ListaTarefas" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -171,13 +179,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729993842437</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adicionar desafio ConjuntoConvidados">
+      <option name="closed" value="true" />
+      <created>1730057531746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730057531746</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionar desafio lista de tarefas" />
     <MESSAGE value="Adicionar desafio CatalogoLivros" />
     <MESSAGE value="Adicionar desafio OrdenacaoPessoas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionar desafio OrdenacaoPessoas" />
+    <MESSAGE value="Adicionar desafio ConjuntoConvidados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionar desafio ConjuntoConvidados" />
   </component>
 </project>
